@@ -47,7 +47,7 @@ function sendEmail() {
 }
 function download() {
 const link = document.createElement('a');
-link.href = 'https://drive.google.com/uc?export=download&id=1UJkWLeby0cLSxu2RSBrSmY23Jtd5kP-M';
+link.href = 'https://drive.google.com/uc?export=download&id=1NyUOxCiJDtQ-A0ho-2Xp-J56IKuUMgt9';
 link.download = 'AshokKumar_Resume.pdf';
 link.click();
 }
